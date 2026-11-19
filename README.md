@@ -19,7 +19,7 @@ d’installation.
 
 ### Installer l’extension Python de Microsoft dans VSCode et vérifier l’interpréteur.
 
-# 3. Activité 2 – Création du projet
+## 3. Activité 2 – Création du projet
 Créer le dossier atelier-gl-module1 avec cette structure :
 
 atelier-gl-module1/
