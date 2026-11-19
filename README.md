@@ -1,21 +1,21 @@
-## Objectif : 
+# Objectif : 
  * installer et configurer VS Code,
  * Python et Git ;
  * structurer un projet ; gérer ses versions ; publier le dépôt sur GitHub.
 
- # 1. Prérequis
+ ## 1. Prérequis
 * Ordinateur Windows, Linux ou macOS ; connexion Internet ; compte GitHub ; droits
 d’installation.
 * Python : https://www.python.org/downloads/
 * VS Code : https://code.visualstudio.com/
 * Git : https://git-scm.com/downloads
 * GitHub : https://github.com/
-# 2. Activité 1 – Vérification de l’environnement
-## python --version
-## git --version
-## git config --global user.name "Nom Etudiant"
-## git config --global user.email "email@example.com"
-## git config --global --list
+## 2. Activité 1 – Vérification de l’environnement
+ * python --version
+ * git --version
+ * git config --global user.name "Nom Etudiant"
+ * git config --global user.email "email@example.com"
+ * git config --global --list
 
 ### Installer l’extension Python de Microsoft dans VSCode et vérifier l’interpréteur.
 
